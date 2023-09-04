@@ -1,4 +1,4 @@
-# Ecommerce-Prediction-System
+# Ecommerce-Purchase-Prediction
 
 ### Introduction:
 This project aims to develop machine learning models to predict the purchasing intention of e-commerce visitors based on their online activity information, including clickstream and session data. The dataset contains relevant information, and the goal is to explore the data, preprocess it, select appropriate machine learning methods, implement the models, and evaluate their performance.
