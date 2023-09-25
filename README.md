@@ -34,6 +34,6 @@ The table lists various models and their corresponding performance metrics, allo
 |Gradient Boost	|0.925643	|0.981165|	0.890916|	0.936724|
 |LGBM|	0.961529|	0.994580|	0.900649|	0.935665|
 |Soft Voting	|0.995612	|0.999938|	0.892944|	0.933197|
-|Weighted Soft |Voting	|0.998257|	0.999990|	0.890105|	0.929662|
+|Weighted Soft Voting	|0.998257|	0.999990|	0.890105|	0.929662|
 |XGB	|0.919512|	0.979301	|0.888483|	0.935443|
 |SVM|	0.877434|	0.943612|	0.815085|	0.837505|
